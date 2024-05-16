@@ -9,7 +9,7 @@ We used this tool to create and amplify the positive samples in the training set
 ### Need package
 python3.9.18,  tensorflow==2.10.1, scikit-learn==1.4.0, numpy==1.26.4, gensim==4.3.2, cuda and cuDNN if you have GPU
 ###  Preprocess instructions
-**If you want to use embedding_onehot encoding, run python embedding_onehot.py else if you want to use DNA2Vec encoding, run python DNA2Vec.py**
+**If you want to use embedding_onehot encoding, run (<span style="color:red">python embedding_onehot.py</span>) else if you want to use DNA2Vec encoding, run python DNA2Vec.py**
 
 
 # CONTACT INFO
