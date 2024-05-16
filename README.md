@@ -10,6 +10,15 @@ We used this tool to create and amplify the positive samples in the training set
 python3.9.18,  tensorflow==2.10.1, scikit-learn==1.4.0, numpy==1.26.4, gensim==4.3.2, cuda and cuDNN if you have GPU
 ###  Preprocess instructions
 **If you want to use embedding_onehot encoding, run python (embedding_onehot.py) else if you want to use DNA2Vec encoding, run (python DNA2Vec.py)**
+### Train instruction
+pyhton train.py [tool name] [cel line name]
+
+tool name can be = DNA2Vec_DeepEPI, embedding_onehot_DeepEPI
+
+cel line name can be = GM12878, HUVEC, HeLa-S3, IMR90, K562, NHEK, ALL
+
+for example run= python train.py embedding_onehot_DeepEPI NHEK
+
 
 
 # CONTACT INFO
