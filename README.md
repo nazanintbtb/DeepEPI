@@ -19,6 +19,17 @@ cel line name can be = GM12878, HUVEC, HeLa-S3, IMR90, K562, NHEK, ALL
 
 for example run= python train.py embedding_onehot_DeepEPI NHEK
 
+note: make sure save dataset in correct direction
+### Test
+python test.py [cel line name]
+
+cel line name can be = GM12878, HUVEC, HeLa-S3, IMR90, K562, NHEK, ALL
+# DOWNLOAD TRAINED WEIGHTS
+Download  best_DNA2Vec_DeepEPI from [here](https://drive.google.com/file/d/1XZRxnyQT0w75ilElmITlEzUSU2jUML99/view?usp=drive_link)
+
+Download  best_embedding_onehot_DeepEPI from [here](https://drive.google.com/file/d/18GLDWqdNA4jXP3cseOhpKQDLeu_abVmM/view?usp=drive_link)
+
+# TF EXTRACTION & TF INTERACTIONS
 
 
 # CONTACT INFO
