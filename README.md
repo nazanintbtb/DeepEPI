@@ -30,8 +30,18 @@ Download  best_DNA2Vec_DeepEPI from [here](https://drive.google.com/file/d/1XZRx
 Download  best_embedding_onehot_DeepEPI from [here](https://drive.google.com/file/d/18GLDWqdNA4jXP3cseOhpKQDLeu_abVmM/view?usp=drive_link)
 
 # TF EXTRACTION & TF INTERACTIONS
+See the motifs extraction and thier interaction code in [colab](https://colab.research.google.com/drive/1_tL7PddKWJFgNBfTh5Lp33dIUxZOX_8J?usp=sharing)
 
+After feed the motifs to TOMTOM tool and check their interaction by bioGRID .
 
+Download the ready extracted TFs and their interactions [here from supplementary_file3](https://drive.google.com/file/d/1wScji5o9gwcuNXcP9gb7lGl2hYqEAnzi/view?usp=sharing)
+
+See the code of TFs heatmap from [colab](https://colab.research.google.com/drive/1SWpUxXdYzBljfho7Han-PXtnhwt54__4?usp=sharing)
+See the code of TF interactions from [colab](https://colab.research.google.com/drive/17c-Gw1z8hBCa6LqmMhcJUfvhhG6RI56h?usp=sharing) 
+# SUPPLEMENTARY FILES
+[file1](https://drive.google.com/drive/folders/1ZY8prz2fWOu9njGvhVoG89aLSomZ-N2k?usp=sharing)
+[file2](https://drive.google.com/drive/folders/1n977E4X6ipTM0T-PwgnifM0KpL6NLmb6?usp=sharing)
+[file3](https://drive.google.com/file/d/1wScji5o9gwcuNXcP9gb7lGl2hYqEAnzi/view?usp=sharing)
 # CONTACT INFO
 Somayyeh Koohi
 
