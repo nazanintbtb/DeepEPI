@@ -1,1 +1,2 @@
 # DeepEPI
+DeepEPI is a deep learning model designed to advance the study of Enhancer-Promoter Interactions (EPIs) using genomic sequences. By incorporating Convolutional Neural Networks (CNN) and Transformer blocks, our model aims to unravel the complex interplay between enhancers and promoters. DeepEPI employs innovative methods such as embedding layers for one-hot coding and multihead attention mechanisms to enhance the detection and interaction analysis of Transcription Factors (TFs).
