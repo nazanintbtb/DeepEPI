@@ -39,7 +39,7 @@ Download the ready extracted TFs and their interactions [here from supplementary
 See the code of TFs heatmap from [colab](https://colab.research.google.com/drive/1SWpUxXdYzBljfho7Han-PXtnhwt54__4?usp=sharing)
 See the code of TF interactions from [colab](https://colab.research.google.com/drive/17c-Gw1z8hBCa6LqmMhcJUfvhhG6RI56h?usp=sharing) 
 # SUPPLEMENTARY FILES
-[files]([https://drive.google.com/drive/folders/1ZY8prz2fWOu9njGvhVoG89aLSomZ-N2k?usp=sharing](https://drive.google.com/file/d/1EU-QfkpD5BB2-yzjSOTywwNWTS7kzZTG/view?usp=drive_link))
+[files](https://drive.google.com/file/d/1EU-QfkpD5BB2-yzjSOTywwNWTS7kzZTG/view?usp=drive_link)
 
 # CONTACT INFO
 Somayyeh Koohi
