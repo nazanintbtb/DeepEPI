@@ -36,8 +36,6 @@ After feed the motifs to TOMTOM tool and check their interaction by bioGRID .
 
 Download the ready extracted [motifs](https://drive.google.com/file/d/14R9kmUfYq3MZL7_Y-E2xpmSwTCDWwVYJ/view?usp=drive_link) and [TF interactions table](https://drive.google.com/file/d/1XiRJ1ZATmWyfr-l199I6pnEG6E_qKt06/view?usp=drive_link)
 
-See the code of TFs heatmap from [colab](https://colab.research.google.com/drive/1SWpUxXdYzBljfho7Han-PXtnhwt54__4?usp=sharing)
-See the code of TF interactions from [colab](https://colab.research.google.com/drive/17c-Gw1z8hBCa6LqmMhcJUfvhhG6RI56h?usp=sharing) 
 # SUPPLEMENTARY FILES
 [files](https://drive.google.com/file/d/1EU-QfkpD5BB2-yzjSOTywwNWTS7kzZTG/view?usp=drive_link)
 
