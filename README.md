@@ -37,7 +37,7 @@ After feed the motifs to TOMTOM tool and check their interaction by bioGRID .
 Download the ready extracted [motifs](https://drive.google.com/file/d/14R9kmUfYq3MZL7_Y-E2xpmSwTCDWwVYJ/view?usp=drive_link) and [TF interactions table](https://drive.google.com/file/d/1XiRJ1ZATmWyfr-l199I6pnEG6E_qKt06/view?usp=drive_link)
 
 # SUPPLEMENTARY FILES
-[files](https://drive.google.com/file/d/1EU-QfkpD5BB2-yzjSOTywwNWTS7kzZTG/view?usp=drive_link)
+[files](https://drive.google.com/file/d/1hMjDwdsLKLVOYsJrBxbQ0k5pK48Livvm/view?usp=sharing)
 
 # CONTACT INFO
 Somayyeh Koohi
