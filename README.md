@@ -32,7 +32,7 @@ Download  best_embedding_onehot_DeepEPI from [here](https://drive.google.com/fil
 # TF EXTRACTION & TF INTERACTIONS
 See the motifs extraction and thier interaction code in [colab](https://colab.research.google.com/drive/1_tL7PddKWJFgNBfTh5Lp33dIUxZOX_8J?usp=sharing)
 
-After feed the motifs to TOMTOM tool and check their interaction by bioGRID .
+After feed the motifs to TOMTOM tool and check their interaction by bioGRID.
 
 Download the ready extracted [motifs](https://drive.google.com/file/d/14R9kmUfYq3MZL7_Y-E2xpmSwTCDWwVYJ/view?usp=drive_link) and [TF interactions table](https://drive.google.com/file/d/1XiRJ1ZATmWyfr-l199I6pnEG6E_qKt06/view?usp=drive_link)
 
